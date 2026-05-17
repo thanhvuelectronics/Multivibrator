@@ -1,0 +1,19 @@
+Change Component Designator: OldDesignator=D2 NewDesignator=D1
+Change Component Designator: OldDesignator=JP? NewDesignator=JP1
+Change Net Name : Old Net Name=NetD2_1 New Net Name=NetD1_1
+Change Net Name : Old Net Name=NetJP?_1 New Net Name=NetJP1_1
+Change Net Name : Old Net Name=NetJP?_2 New Net Name=NetJP1_2
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=R4-1
+Added Net: Name=NetD2_1
+Added Member To Class: ClassName=Sheet2 Member=Component C1 47uF
+Added Member To Class: ClassName=Sheet2 Member=Component C2 47uF
+Added Member To Class: ClassName=Sheet2 Member=Component D1 LED 3mm
+Added Member To Class: ClassName=Sheet2 Member=Component D2 LED 3mm
+Added Member To Class: ClassName=Sheet2 Member=Component JP1 JP4 PIN
+Added Member To Class: ClassName=Sheet2 Member=Component Q1 C1815
+Added Member To Class: ClassName=Sheet2 Member=Component Q2 C1815
+Added Member To Class: ClassName=Sheet2 Member=Component R1 220R
+Added Member To Class: ClassName=Sheet2 Member=Component R2 47k
+Added Member To Class: ClassName=Sheet2 Member=Component R3 47k
+Added Member To Class: ClassName=Sheet2 Member=Component R4 220R
